@@ -56,5 +56,5 @@ public class WePico
 <h2 align="center">Stats </h2>
 
 <p href="https://t.me/wepico" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=wepico&theme=tokyonight&show_icons=true">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=WePico&theme=tokyonight&show_icons=true">
 </p>
