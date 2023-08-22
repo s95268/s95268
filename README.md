@@ -33,7 +33,7 @@ public class WePico
         };
 
         List<string> Devs = new List<string> { "Backend", "Software", "Frontend (BAD)" };
-        List<string> Editor = new List<string> { "VSCode", "CLion", "Visual Studio" };
+        List<string> Editor = new List<string> { "VSCode", "Visual Studio", "CLion", "PyCharm", "IntelliJ Idea" };
 
         return new Tuple<Dictionary<string, List<string>>, List<string>, List<string>>(Code, Devs, Editor);
     }
