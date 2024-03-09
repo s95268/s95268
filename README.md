@@ -5,7 +5,7 @@ public class Czz
 {
     public static Tuple<string, string, string> Contact()
     {
-        string Discord = "fn2913";
+        string Discord = "svokfds";
         string Telegram = "t.me/betterczz";
         string Website = "GoSec.me";
 
