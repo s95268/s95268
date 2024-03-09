@@ -27,7 +27,7 @@ public class Czz
         Dictionary<string, List<string>> Code = new Dictionary<string, List<string>>
         {
             { "Expert", new List<string> { "Python", "Lua" } },
-            { "Pro", new List<string> { "Golang", "C#", "Lua", "JavaScript" } },
+            { "Pro", new List<string> { "Golang", "C#", "JavaScript" } },
             { "Medium", new List<string> { "C", "C++" } }
         };
 
