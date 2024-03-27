@@ -16,8 +16,8 @@ public class Czz
     {
         string Name = "S...";
         List<string> Speak = new List<string> { "French", "Arabic", "Spanish", "English" };
-        int Age = 18;
-        string Year = "2005";
+        int Age = 91;
+        string Year = "1933";
 
         return new Tuple<string, List<string>, int, string>(Name, Speak, Age, Year);
     }
