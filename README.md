@@ -1,13 +1,13 @@
 # 💙  Some informations about me
 
 ```cs
-public class Czz
+public class s95
 {
     public static Tuple<string, string, string> Contact()
     {
-        string Discord = "svokfds";
-        string Telegram = "t.me/betterczz";
-        string Website = "GoSec.me";
+        string Discord = "shen06484";
+        string Telegram = "t.me/momoguisse92";
+        string Website = "Not Avaible";
 
         return new Tuple<string, string, string>(Discord, Telegram, Website);
     }
